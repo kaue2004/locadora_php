@@ -27,7 +27,7 @@ Projeto realizado com alinguagem de programação PHP e utilização do MYSQL 8.
 
 *UTILIZE O SEGUINTES DADOS PARA TER ACESSO AO CMS*
 
-email:eula@senai.sp.br
-senha:123
+email:kaue@gmail.com
+senha:1234
 
 **Com isso você terá acesso ao cms e poderá cadastrar filmes, atores, gêneros, categorias, subcategorias, novos usuários e seus níveis.**
